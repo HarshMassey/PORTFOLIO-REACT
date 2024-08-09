@@ -50,7 +50,7 @@ export const PROJECTS = [
   
   {
     title: "Online Lab Diagonstic System",
-    image: project4,
+    image: project2,
     description:
       "Lab Diagonstic Management System for patients and Doctors",
     technologies: ["HTML", "TailwindCSS", "PHP", "MYSQL"],
@@ -66,15 +66,15 @@ export const PROJECTS = [
   },
   {
     title: "E-learning Platform",
-    image: project4,
+    image: project6,
     description:
-      "E-learing Platform for students and teachers can also post their videos.",
+      "E-learing Platform for students and teachers.",
     technologies: ["HTML", "TailwindCSS", "ReactJS", "NodeJS", "MongoDB", "ExpressJS"],
     link: "https://github.com/Abhishek-Mahanta/l_otp.git",
   },
   {
     title: "FORM PAGE",
-    image: project4,
+    image: project1,
     description:
       "FORM PAGE FOR REGISTRATION",
     technologies: ["HTML", "TailwindCSS", "ReactJS", "NodeJS", "MongoDB", "ExpressJS"],
